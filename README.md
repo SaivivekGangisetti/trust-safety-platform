@@ -141,10 +141,8 @@ This project is developed for educational and hackathon purposes.
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Team
-
--   Sai Vivek Gangisetti
--   Chennam Asrith
--   Team Members
+-   2300030122 YASWANTH CHAVA
+-   2300031239 Sai Vivek Gangisetti
 
 ------------------------------------------------------------------------
 
