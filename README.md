@@ -142,7 +142,7 @@ This project is developed for educational and hackathon purposes.
 
 ## 👨‍💻 Team
 -   2300030122 YASWANTH CHAVA
--   2300031239 Sai Vivek Gangisetti
+-   2300031239 SAI VIVEK GANGISETTI
 
 ------------------------------------------------------------------------
 
